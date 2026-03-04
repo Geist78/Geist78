@@ -49,7 +49,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Geist78/Geist78/output/snake.svg" alt="Snake animation" />
-
-###
