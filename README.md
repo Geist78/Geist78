@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hello, my name is Maik M. I am 17 years old. I am currently doing an apprenticeship as a software developer. I am learning C#, Wpf and Asp.net. I also develop a lot myself at home and test myself through different areas and languages, I really enjoy developing and seeing how products are created and also testing something from other people</p>
+<p align="left">Hello, my name is Maik M. I am 18 years old. I am currently doing an apprenticeship as a software developer. I am learning C#, Wpf and Asp.net. I also develop a lot myself at home and test myself through different areas and languages, I really enjoy developing and seeing how products are created and also testing something from other people</p>
 
 ###
 
