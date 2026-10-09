@@ -10,8 +10,6 @@
 
 - 📚 I’m currently learning **C# and React-nativ**
 
-- 🎯 Goals: **Create my Own Network**
-
 ###
 
 <h3 align="left">Languages and Tools:</h3>
